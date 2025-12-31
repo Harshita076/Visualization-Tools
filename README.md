@@ -9,8 +9,8 @@ This repository contains my work and practice related to data visualization tech
 - Tool-based Visualization Practice  
 
 ## 🛠️ Tools Used
-- Visualization Tools (e.g ,Power BI )
-- Data Sets for Visualization  
+- Power BI 
+
 
 ## 🎯 Purpose
 To learn how to represent data visually for better insights, storytelling, and decision-making in data-driven projects.
